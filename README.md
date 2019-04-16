@@ -1,5 +1,5 @@
 # TurboDB Studio 4 Praxishandbuch (dt) 
-Publiziert: Mar 1, 2012, Verlag: epubli.de,ISBN: 978-3844219975
+Publiziert: Mar 1, 2012, Verlag: epubli.de, ISBN: 978-3844219975, (Kauf)[https://www.amazon.de/TurboDB-Studio-Praxishandbuch-Robert-Linn/dp/3844219978]
 
 ## Vorwort zum Buch
 Das TurboDB Studio 4 Praxishandbuch enthält eine Fülle von Tipps und Beispielen, die vom Autor im Laufe der Jahre zusammengestellt worden ist.
