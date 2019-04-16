@@ -1,12 +1,7 @@
-# Book TurboDB Studio 4 Praxishandbuch (dt) 
-Publication date: Mar 1, 2012  
-Publication description: epubli.de
-ISBN 978-3844219975
+# TurboDB Studio 4 Praxishandbuch (dt) 
+Publiziert: Mar 1, 2012, Verlag: epubli.de,ISBN: 978-3844219975
 
-## Publication Description
-Handbook (written in German) about Rapid Database Development using TurboDB Studio (a database development tool). 
-
-### Vorwort zum Buch
+## Vorwort zum Buch
 Das TurboDB Studio 4 Praxishandbuch enthält eine Fülle von Tipps und Beispielen, die vom Autor im Laufe der Jahre zusammengestellt worden ist.
 
 Angefangen Mitte der 80er, damals noch auf DOS Basis mit der Turbo Datenbank (TDB), dann für den Visual Data Publisher und aktuell für TurboDB Studio 4.
