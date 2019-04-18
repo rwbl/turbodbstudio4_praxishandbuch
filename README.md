@@ -1,5 +1,5 @@
 # TurboDB Studio 4 Praxishandbuch (dt) 
-Autor: Robert W.B. Linn, Publiziert: 1. März 2012, Verlag: epubli.de, ISBN: 978-3844219975, Gebunden, 504 Seiten, [Kauf](https://www.amazon.de/TurboDB-Studio-Praxishandbuch-Robert-Linn/dp/3844219978)
+__Autor__: Robert W.B. Linn, Publiziert: 1. März 2012, Verlag: epubli.de, ISBN: 978-3844219975, Gebunden, 504 Seiten, [Kauf](https://www.amazon.de/TurboDB-Studio-Praxishandbuch-Robert-Linn/dp/3844219978)
 
 ## Vorwort zum Buch
 Das TurboDB Studio 4 Praxishandbuch enthält eine Fülle von Tipps und Beispielen, die vom Autor im Laufe der Jahre zusammengestellt worden ist.
@@ -14,9 +14,6 @@ Weiterhin ersetzt dieses Buch nicht das TurboDB Studio 4 Handbuch, es ist eine E
 
 ## Beispiele
 Siehe Archiv ts4praxishandbuchbsp.zip.
-
-## Author
-Robert W.B. Linn
 
 ## Licence
 Copyright (C) 2012  Robert W.B. Linn
